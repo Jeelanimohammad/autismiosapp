@@ -1,11 +1,12 @@
-# Autism iOS Application & Backend Platform
+# Autism iOS App, Web App, Backend REST API & Database Platform
 
-Complete repository containing the iOS Native Application (Swift / SwiftUI), PHP REST API Backend, and MySQL Database Schema.
+Complete multi-platform repository containing the iOS Native Application (Swift / SwiftUI), Web Application (React / Vite), PHP REST API Backend, and MySQL Database Schema.
 
 ## Repository Structure
 
 ```
 ├── FRONTEND/   # Native iOS Application (Xcode project written in Swift / SwiftUI)
+├── WEB/        # Web Application (React / Vite single-page application)
 ├── BACKEND/    # PHP REST API Backend (Server endpoints for Auth, Assessment, Advice)
 └── DATABASE/   # MySQL Database Dump (autism_database.sql)
 ```
@@ -22,11 +23,36 @@ Complete repository containing the iOS Native Application (Swift / SwiftUI), PHP
 
 ### Setup Instructions
 1. Open `FRONTEND/Autism.xcodeproj` in **Xcode**.
-2. Update the backend URL in `Autism/Common/NetworkManager.swift`:
+2. Update the backend URL in `FRONTEND/Autism/Common/NetworkManager.swift`:
    ```swift
    let baseURL = "http://YOUR_SERVER_IP_OR_DOMAIN/autism"
    ```
 3. Select your Simulator or Connected iOS Device and press **Run** (`⌘R`).
+
+---
+
+## 🌐 Web Application (`WEB`)
+
+### Tech Stack
+- **Framework**: React 19 / Vite
+- **Routing**: React Router DOM
+- **Icons**: Lucide React
+- **Charts**: Recharts
+
+### Setup Instructions
+1. Navigate to the web folder:
+   ```bash
+   cd WEB
+   npm install
+   ```
+2. Start development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
 
 ---
 

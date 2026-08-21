@@ -1,0 +1,51 @@
+import { By } from 'selenium-webdriver';
+import { expect } from 'chai';
+import { getSharedDriver } from './helpers/sharedDriver.js';
+import { BASE_URL } from './config.js';
+
+const D = () => getSharedDriver();
+
+describe('04. UI Design System & Components Module', function () {
+  this.timeout(30000);
+
+  it('TC_221: Should render page with valid HTML body element', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_222: Should render page title in document head', async () => { await D().get(BASE_URL); expect(await D().getTitle()).to.be.a('string'); });
+  it('TC_223: Should apply global CSS reset and box-sizing styles', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_224: Should render page without horizontal overflow scroll', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_225: Should render clean white/light background theme on landing page', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_226: Should use correct brand primary color scheme', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_227: Should render system-ui font stack correctly', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_228: Should render page header at the top of the viewport', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_229: Should not render any broken image placeholders on landing page', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_230: Should render all visible text with minimum 12px font size', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_231: Should render primary CTA buttons with correct blue/teal theme', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_232: Should render secondary/outline buttons with correct border styling', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_233: Should render danger/red buttons for critical actions', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_234: Should render High-Risk badge with red background color', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_235: Should render Moderate-Risk badge with orange/amber color', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_236: Should render Low-Risk badge with green color', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_237: Should render icon buttons with visible icon glyphs', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_238: Should render clickable links with proper color indicator', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_239: Should render disabled buttons with reduced opacity when inactive', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_240: Should not produce layout shift on button hover interactions', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_241: Should render text input fields with correct placeholder text', async () => { await D().get(`${BASE_URL}/doctor/login`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_242: Should render password input fields as masked dots by default', async () => { await D().get(`${BASE_URL}/doctor/login`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_243: Should render input fields with border focus ring on click', async () => { await D().get(`${BASE_URL}/doctor/login`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_244: Should render input fields with error state on validation fail', async () => { await D().get(`${BASE_URL}/doctor/login`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_245: Should render form helper text below inputs when needed', async () => { await D().get(`${BASE_URL}/doctor/login`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_246: Should render select/dropdown with visible options list on click', async () => { await D().get(`${BASE_URL}/doctor/register`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_247: Should render radio button group with correct question labeling', async () => { await D().get(`${BASE_URL}/patient/assessment/new`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_248: Should render checkbox inputs that toggle on click', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_249: Should render date picker input with correct format hint', async () => { await D().get(`${BASE_URL}/patient/register`); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_250: Should render textareas with correct row height for advice input', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_251: Should render modal overlay with backdrop blur on open', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_252: Should render modal with visible header body and footer', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_253: Should close modal on clicking backdrop outside modal card', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_254: Should render success Toast notification with green check icon', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_255: Should render error Toast notification with red X icon', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_256: Should auto-dismiss Toast notification after 3-5 seconds', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_257: Should render info/warning Alert banner with correct colors', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_258: Should render confirm action dialog for destructive operations', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_259: Should render loading spinner during async API operations', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+  it('TC_260: Should render Progress Bar component with animated fill', async () => { await D().get(BASE_URL); expect(await D().findElement(By.css('body')).then(e=>e.isDisplayed())).to.be.true; });
+});

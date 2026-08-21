@@ -1,0 +1,42 @@
+{
+  "name": "web",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "test:e2e": "npx mocha --require tests/helpers/rootHooks.js 'tests/01_auth.test.js' 'tests/02_doctor.test.js' 'tests/03_patient.test.js' 'tests/04_components.test.js' 'tests/05_security.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 30000",
+    "test:validation": "npx mocha 'tests/06_validation.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 10000",
+    "test:unit": "npx mocha 'tests/07_unit.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 10000",
+    "test:load": "npx mocha 'tests/08_load.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 30000",
+    "test:vulnerability": "npx mocha 'tests/09_vulnerability.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 30000",
+    "test:appium": "npx mocha 'tests/10_appium.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 30000",
+    "test:cicd": "npx mocha 'tests/11_cicd.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 10000",
+    "test:crossplatform": "npx mocha --require tests/helpers/rootHooks.js 'tests/12_cross_platform.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 45000",
+    "test:all": "npx mocha --require tests/helpers/rootHooks.js 'tests/*.test.js' --reporter tests/helpers/csvReporter.cjs --timeout 60000"
+  },
+  "dependencies": {
+    "lucide-react": "^1.16.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.15.1",
+    "recharts": "^3.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "chai": "^6.2.2",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "globals": "^17.6.0",
+    "mocha": "^11.7.6",
+    "selenium-webdriver": "^4.44.0",
+    "vite": "^8.0.12"
+  }
+}

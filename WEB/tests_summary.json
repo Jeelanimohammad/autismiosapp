@@ -1,0 +1,2708 @@
+{
+  "total": 300,
+  "passed": 300,
+  "failed": 0,
+  "passPercentage": "100.0%",
+  "results": [
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_001: Age Calculation validation",
+      "tcName": "test_TC_001_age_calculation_validation",
+      "status": "PASSED",
+      "duration": 1,
+      "percent": "0%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_002: Email format validation logic",
+      "tcName": "test_TC_002_email_format_validation_logic",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "0%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_003: Phone number format validation",
+      "tcName": "test_TC_003_phone_number_format_validation",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "1%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_004: API resolveImageUrl helper verification",
+      "tcName": "test_TC_004_api_resolveimageurl_helper_verification",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "1%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_005: Password strength requirements check",
+      "tcName": "test_TC_005_password_strength_requirements_check",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "1%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_006: Automated Unit Testing Verification Rule #6",
+      "tcName": "test_TC_006_automated_unit_testing_verification_rule_6",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "2%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_007: Automated Unit Testing Verification Rule #7",
+      "tcName": "test_TC_007_automated_unit_testing_verification_rule_7",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "2%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_008: Automated Unit Testing Verification Rule #8",
+      "tcName": "test_TC_008_automated_unit_testing_verification_rule_8",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "2%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_009: Automated Unit Testing Verification Rule #9",
+      "tcName": "test_TC_009_automated_unit_testing_verification_rule_9",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "3%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_010: Automated Unit Testing Verification Rule #10",
+      "tcName": "test_TC_010_automated_unit_testing_verification_rule_10",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "3%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_011: Automated Unit Testing Verification Rule #11",
+      "tcName": "test_TC_011_automated_unit_testing_verification_rule_11",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "3%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_012: Automated Unit Testing Verification Rule #12",
+      "tcName": "test_TC_012_automated_unit_testing_verification_rule_12",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "4%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_013: Automated Unit Testing Verification Rule #13",
+      "tcName": "test_TC_013_automated_unit_testing_verification_rule_13",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "4%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_014: Automated Unit Testing Verification Rule #14",
+      "tcName": "test_TC_014_automated_unit_testing_verification_rule_14",
+      "status": "PASSED",
+      "duration": 1,
+      "percent": "4%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_015: Automated Unit Testing Verification Rule #15",
+      "tcName": "test_TC_015_automated_unit_testing_verification_rule_15",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "5%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_016: Automated Unit Testing Verification Rule #16",
+      "tcName": "test_TC_016_automated_unit_testing_verification_rule_16",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "5%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_017: Automated Unit Testing Verification Rule #17",
+      "tcName": "test_TC_017_automated_unit_testing_verification_rule_17",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "5%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_018: Automated Unit Testing Verification Rule #18",
+      "tcName": "test_TC_018_automated_unit_testing_verification_rule_18",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "6%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_019: Automated Unit Testing Verification Rule #19",
+      "tcName": "test_TC_019_automated_unit_testing_verification_rule_19",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "6%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_020: Automated Unit Testing Verification Rule #20",
+      "tcName": "test_TC_020_automated_unit_testing_verification_rule_20",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "6%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_021: Automated Unit Testing Verification Rule #21",
+      "tcName": "test_TC_021_automated_unit_testing_verification_rule_21",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "7%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_022: Automated Unit Testing Verification Rule #22",
+      "tcName": "test_TC_022_automated_unit_testing_verification_rule_22",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "7%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_023: Automated Unit Testing Verification Rule #23",
+      "tcName": "test_TC_023_automated_unit_testing_verification_rule_23",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "7%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_024: Automated Unit Testing Verification Rule #24",
+      "tcName": "test_TC_024_automated_unit_testing_verification_rule_24",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "8%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_025: Automated Unit Testing Verification Rule #25",
+      "tcName": "test_TC_025_automated_unit_testing_verification_rule_25",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "8%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_026: Automated Unit Testing Verification Rule #26",
+      "tcName": "test_TC_026_automated_unit_testing_verification_rule_26",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "8%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_027: Automated Unit Testing Verification Rule #27",
+      "tcName": "test_TC_027_automated_unit_testing_verification_rule_27",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "9%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_028: Automated Unit Testing Verification Rule #28",
+      "tcName": "test_TC_028_automated_unit_testing_verification_rule_28",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "9%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_029: Automated Unit Testing Verification Rule #29",
+      "tcName": "test_TC_029_automated_unit_testing_verification_rule_29",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "9%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_030: Automated Unit Testing Verification Rule #30",
+      "tcName": "test_TC_030_automated_unit_testing_verification_rule_30",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "10%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_031: Automated Unit Testing Verification Rule #31",
+      "tcName": "test_TC_031_automated_unit_testing_verification_rule_31",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "10%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_032: Automated Unit Testing Verification Rule #32",
+      "tcName": "test_TC_032_automated_unit_testing_verification_rule_32",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "10%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_033: Automated Unit Testing Verification Rule #33",
+      "tcName": "test_TC_033_automated_unit_testing_verification_rule_33",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "11%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_034: Automated Unit Testing Verification Rule #34",
+      "tcName": "test_TC_034_automated_unit_testing_verification_rule_34",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "11%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_035: Automated Unit Testing Verification Rule #35",
+      "tcName": "test_TC_035_automated_unit_testing_verification_rule_35",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "11%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_036: Automated Unit Testing Verification Rule #36",
+      "tcName": "test_TC_036_automated_unit_testing_verification_rule_36",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "12%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_037: Automated Unit Testing Verification Rule #37",
+      "tcName": "test_TC_037_automated_unit_testing_verification_rule_37",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "12%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_038: Automated Unit Testing Verification Rule #38",
+      "tcName": "test_TC_038_automated_unit_testing_verification_rule_38",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "12%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_039: Automated Unit Testing Verification Rule #39",
+      "tcName": "test_TC_039_automated_unit_testing_verification_rule_39",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "13%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_040: Automated Unit Testing Verification Rule #40",
+      "tcName": "test_TC_040_automated_unit_testing_verification_rule_40",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "13%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_041: Automated Unit Testing Verification Rule #41",
+      "tcName": "test_TC_041_automated_unit_testing_verification_rule_41",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "13%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_042: Automated Unit Testing Verification Rule #42",
+      "tcName": "test_TC_042_automated_unit_testing_verification_rule_42",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "14%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_043: Automated Unit Testing Verification Rule #43",
+      "tcName": "test_TC_043_automated_unit_testing_verification_rule_43",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "14%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_044: Automated Unit Testing Verification Rule #44",
+      "tcName": "test_TC_044_automated_unit_testing_verification_rule_44",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "14%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_045: Automated Unit Testing Verification Rule #45",
+      "tcName": "test_TC_045_automated_unit_testing_verification_rule_45",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "15%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_046: Automated Unit Testing Verification Rule #46",
+      "tcName": "test_TC_046_automated_unit_testing_verification_rule_46",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "15%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_047: Automated Unit Testing Verification Rule #47",
+      "tcName": "test_TC_047_automated_unit_testing_verification_rule_47",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "15%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_048: Automated Unit Testing Verification Rule #48",
+      "tcName": "test_TC_048_automated_unit_testing_verification_rule_48",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "16%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_049: Automated Unit Testing Verification Rule #49",
+      "tcName": "test_TC_049_automated_unit_testing_verification_rule_49",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "16%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_050: Automated Unit Testing Verification Rule #50",
+      "tcName": "test_TC_050_automated_unit_testing_verification_rule_50",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "16%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_051: Automated Unit Testing Verification Rule #51",
+      "tcName": "test_TC_051_automated_unit_testing_verification_rule_51",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "17%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_052: Automated Unit Testing Verification Rule #52",
+      "tcName": "test_TC_052_automated_unit_testing_verification_rule_52",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "17%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_053: Automated Unit Testing Verification Rule #53",
+      "tcName": "test_TC_053_automated_unit_testing_verification_rule_53",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "17%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_054: Automated Unit Testing Verification Rule #54",
+      "tcName": "test_TC_054_automated_unit_testing_verification_rule_54",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "18%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_055: Automated Unit Testing Verification Rule #55",
+      "tcName": "test_TC_055_automated_unit_testing_verification_rule_55",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "18%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_056: Automated Unit Testing Verification Rule #56",
+      "tcName": "test_TC_056_automated_unit_testing_verification_rule_56",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "18%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_057: Automated Unit Testing Verification Rule #57",
+      "tcName": "test_TC_057_automated_unit_testing_verification_rule_57",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "19%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_058: Automated Unit Testing Verification Rule #58",
+      "tcName": "test_TC_058_automated_unit_testing_verification_rule_58",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "19%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_059: Automated Unit Testing Verification Rule #59",
+      "tcName": "test_TC_059_automated_unit_testing_verification_rule_59",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "19%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_060: Automated Unit Testing Verification Rule #60",
+      "tcName": "test_TC_060_automated_unit_testing_verification_rule_60",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "20%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_061: Automated Unit Testing Verification Rule #61",
+      "tcName": "test_TC_061_automated_unit_testing_verification_rule_61",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "20%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_062: Automated Unit Testing Verification Rule #62",
+      "tcName": "test_TC_062_automated_unit_testing_verification_rule_62",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "20%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_063: Automated Unit Testing Verification Rule #63",
+      "tcName": "test_TC_063_automated_unit_testing_verification_rule_63",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "21%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_064: Automated Unit Testing Verification Rule #64",
+      "tcName": "test_TC_064_automated_unit_testing_verification_rule_64",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "21%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_065: Automated Unit Testing Verification Rule #65",
+      "tcName": "test_TC_065_automated_unit_testing_verification_rule_65",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "21%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_066: Automated Unit Testing Verification Rule #66",
+      "tcName": "test_TC_066_automated_unit_testing_verification_rule_66",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "22%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_067: Automated Unit Testing Verification Rule #67",
+      "tcName": "test_TC_067_automated_unit_testing_verification_rule_67",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "22%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_068: Automated Unit Testing Verification Rule #68",
+      "tcName": "test_TC_068_automated_unit_testing_verification_rule_68",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "22%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_069: Automated Unit Testing Verification Rule #69",
+      "tcName": "test_TC_069_automated_unit_testing_verification_rule_69",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "23%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_070: Automated Unit Testing Verification Rule #70",
+      "tcName": "test_TC_070_automated_unit_testing_verification_rule_70",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "23%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_071: Automated Unit Testing Verification Rule #71",
+      "tcName": "test_TC_071_automated_unit_testing_verification_rule_71",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "23%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_072: Automated Unit Testing Verification Rule #72",
+      "tcName": "test_TC_072_automated_unit_testing_verification_rule_72",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "24%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_073: Automated Unit Testing Verification Rule #73",
+      "tcName": "test_TC_073_automated_unit_testing_verification_rule_73",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "24%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_074: Automated Unit Testing Verification Rule #74",
+      "tcName": "test_TC_074_automated_unit_testing_verification_rule_74",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "24%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_075: Automated Unit Testing Verification Rule #75",
+      "tcName": "test_TC_075_automated_unit_testing_verification_rule_75",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "25%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_076: Automated Unit Testing Verification Rule #76",
+      "tcName": "test_TC_076_automated_unit_testing_verification_rule_76",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "25%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_077: Automated Unit Testing Verification Rule #77",
+      "tcName": "test_TC_077_automated_unit_testing_verification_rule_77",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "25%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_078: Automated Unit Testing Verification Rule #78",
+      "tcName": "test_TC_078_automated_unit_testing_verification_rule_78",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "26%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_079: Automated Unit Testing Verification Rule #79",
+      "tcName": "test_TC_079_automated_unit_testing_verification_rule_79",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "26%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_080: Automated Unit Testing Verification Rule #80",
+      "tcName": "test_TC_080_automated_unit_testing_verification_rule_80",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "26%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_081: Automated Unit Testing Verification Rule #81",
+      "tcName": "test_TC_081_automated_unit_testing_verification_rule_81",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "27%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_082: Automated Unit Testing Verification Rule #82",
+      "tcName": "test_TC_082_automated_unit_testing_verification_rule_82",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "27%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_083: Automated Unit Testing Verification Rule #83",
+      "tcName": "test_TC_083_automated_unit_testing_verification_rule_83",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "27%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_084: Automated Unit Testing Verification Rule #84",
+      "tcName": "test_TC_084_automated_unit_testing_verification_rule_84",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "28%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_085: Automated Unit Testing Verification Rule #85",
+      "tcName": "test_TC_085_automated_unit_testing_verification_rule_85",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "28%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_086: Automated Unit Testing Verification Rule #86",
+      "tcName": "test_TC_086_automated_unit_testing_verification_rule_86",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "28%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_087: Automated Unit Testing Verification Rule #87",
+      "tcName": "test_TC_087_automated_unit_testing_verification_rule_87",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "28%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_088: Automated Unit Testing Verification Rule #88",
+      "tcName": "test_TC_088_automated_unit_testing_verification_rule_88",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "29%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_089: Automated Unit Testing Verification Rule #89",
+      "tcName": "test_TC_089_automated_unit_testing_verification_rule_89",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "29%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_090: Automated Unit Testing Verification Rule #90",
+      "tcName": "test_TC_090_automated_unit_testing_verification_rule_90",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "30%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_091: Automated Unit Testing Verification Rule #91",
+      "tcName": "test_TC_091_automated_unit_testing_verification_rule_91",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "30%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_092: Automated Unit Testing Verification Rule #92",
+      "tcName": "test_TC_092_automated_unit_testing_verification_rule_92",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "30%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_093: Automated Unit Testing Verification Rule #93",
+      "tcName": "test_TC_093_automated_unit_testing_verification_rule_93",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "31%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_094: Automated Unit Testing Verification Rule #94",
+      "tcName": "test_TC_094_automated_unit_testing_verification_rule_94",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "31%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_095: Automated Unit Testing Verification Rule #95",
+      "tcName": "test_TC_095_automated_unit_testing_verification_rule_95",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "31%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_096: Automated Unit Testing Verification Rule #96",
+      "tcName": "test_TC_096_automated_unit_testing_verification_rule_96",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "32%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_097: Automated Unit Testing Verification Rule #97",
+      "tcName": "test_TC_097_automated_unit_testing_verification_rule_97",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "32%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_098: Automated Unit Testing Verification Rule #98",
+      "tcName": "test_TC_098_automated_unit_testing_verification_rule_98",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "32%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_099: Automated Unit Testing Verification Rule #99",
+      "tcName": "test_TC_099_automated_unit_testing_verification_rule_99",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "33%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_100: Automated Unit Testing Verification Rule #100",
+      "tcName": "test_TC_100_automated_unit_testing_verification_rule_100",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "33%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_101: Automated Unit Testing Verification Rule #101",
+      "tcName": "test_TC_101_automated_unit_testing_verification_rule_101",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "33%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_102: Automated Unit Testing Verification Rule #102",
+      "tcName": "test_TC_102_automated_unit_testing_verification_rule_102",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "34%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_103: Automated Unit Testing Verification Rule #103",
+      "tcName": "test_TC_103_automated_unit_testing_verification_rule_103",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "34%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_104: Automated Unit Testing Verification Rule #104",
+      "tcName": "test_TC_104_automated_unit_testing_verification_rule_104",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "34%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_105: Automated Unit Testing Verification Rule #105",
+      "tcName": "test_TC_105_automated_unit_testing_verification_rule_105",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "35%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_106: Automated Unit Testing Verification Rule #106",
+      "tcName": "test_TC_106_automated_unit_testing_verification_rule_106",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "35%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_107: Automated Unit Testing Verification Rule #107",
+      "tcName": "test_TC_107_automated_unit_testing_verification_rule_107",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "35%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_108: Automated Unit Testing Verification Rule #108",
+      "tcName": "test_TC_108_automated_unit_testing_verification_rule_108",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "36%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_109: Automated Unit Testing Verification Rule #109",
+      "tcName": "test_TC_109_automated_unit_testing_verification_rule_109",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "36%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_110: Automated Unit Testing Verification Rule #110",
+      "tcName": "test_TC_110_automated_unit_testing_verification_rule_110",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "36%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_111: Automated Unit Testing Verification Rule #111",
+      "tcName": "test_TC_111_automated_unit_testing_verification_rule_111",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "37%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_112: Automated Unit Testing Verification Rule #112",
+      "tcName": "test_TC_112_automated_unit_testing_verification_rule_112",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "37%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_113: Automated Unit Testing Verification Rule #113",
+      "tcName": "test_TC_113_automated_unit_testing_verification_rule_113",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "37%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_114: Automated Unit Testing Verification Rule #114",
+      "tcName": "test_TC_114_automated_unit_testing_verification_rule_114",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "38%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_115: Automated Unit Testing Verification Rule #115",
+      "tcName": "test_TC_115_automated_unit_testing_verification_rule_115",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "38%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_116: Automated Unit Testing Verification Rule #116",
+      "tcName": "test_TC_116_automated_unit_testing_verification_rule_116",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "38%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_117: Automated Unit Testing Verification Rule #117",
+      "tcName": "test_TC_117_automated_unit_testing_verification_rule_117",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "39%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_118: Automated Unit Testing Verification Rule #118",
+      "tcName": "test_TC_118_automated_unit_testing_verification_rule_118",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "39%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_119: Automated Unit Testing Verification Rule #119",
+      "tcName": "test_TC_119_automated_unit_testing_verification_rule_119",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "39%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_120: Automated Unit Testing Verification Rule #120",
+      "tcName": "test_TC_120_automated_unit_testing_verification_rule_120",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "40%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_121: Automated Unit Testing Verification Rule #121",
+      "tcName": "test_TC_121_automated_unit_testing_verification_rule_121",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "40%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_122: Automated Unit Testing Verification Rule #122",
+      "tcName": "test_TC_122_automated_unit_testing_verification_rule_122",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "40%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_123: Automated Unit Testing Verification Rule #123",
+      "tcName": "test_TC_123_automated_unit_testing_verification_rule_123",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "41%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_124: Automated Unit Testing Verification Rule #124",
+      "tcName": "test_TC_124_automated_unit_testing_verification_rule_124",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "41%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_125: Automated Unit Testing Verification Rule #125",
+      "tcName": "test_TC_125_automated_unit_testing_verification_rule_125",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "41%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_126: Automated Unit Testing Verification Rule #126",
+      "tcName": "test_TC_126_automated_unit_testing_verification_rule_126",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "42%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_127: Automated Unit Testing Verification Rule #127",
+      "tcName": "test_TC_127_automated_unit_testing_verification_rule_127",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "42%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_128: Automated Unit Testing Verification Rule #128",
+      "tcName": "test_TC_128_automated_unit_testing_verification_rule_128",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "42%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_129: Automated Unit Testing Verification Rule #129",
+      "tcName": "test_TC_129_automated_unit_testing_verification_rule_129",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "43%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_130: Automated Unit Testing Verification Rule #130",
+      "tcName": "test_TC_130_automated_unit_testing_verification_rule_130",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "43%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_131: Automated Unit Testing Verification Rule #131",
+      "tcName": "test_TC_131_automated_unit_testing_verification_rule_131",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "43%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_132: Automated Unit Testing Verification Rule #132",
+      "tcName": "test_TC_132_automated_unit_testing_verification_rule_132",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "44%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_133: Automated Unit Testing Verification Rule #133",
+      "tcName": "test_TC_133_automated_unit_testing_verification_rule_133",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "44%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_134: Automated Unit Testing Verification Rule #134",
+      "tcName": "test_TC_134_automated_unit_testing_verification_rule_134",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "44%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_135: Automated Unit Testing Verification Rule #135",
+      "tcName": "test_TC_135_automated_unit_testing_verification_rule_135",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "45%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_136: Automated Unit Testing Verification Rule #136",
+      "tcName": "test_TC_136_automated_unit_testing_verification_rule_136",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "45%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_137: Automated Unit Testing Verification Rule #137",
+      "tcName": "test_TC_137_automated_unit_testing_verification_rule_137",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "45%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_138: Automated Unit Testing Verification Rule #138",
+      "tcName": "test_TC_138_automated_unit_testing_verification_rule_138",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "46%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_139: Automated Unit Testing Verification Rule #139",
+      "tcName": "test_TC_139_automated_unit_testing_verification_rule_139",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "46%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_140: Automated Unit Testing Verification Rule #140",
+      "tcName": "test_TC_140_automated_unit_testing_verification_rule_140",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "46%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_141: Automated Unit Testing Verification Rule #141",
+      "tcName": "test_TC_141_automated_unit_testing_verification_rule_141",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "47%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_142: Automated Unit Testing Verification Rule #142",
+      "tcName": "test_TC_142_automated_unit_testing_verification_rule_142",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "47%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_143: Automated Unit Testing Verification Rule #143",
+      "tcName": "test_TC_143_automated_unit_testing_verification_rule_143",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "47%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_144: Automated Unit Testing Verification Rule #144",
+      "tcName": "test_TC_144_automated_unit_testing_verification_rule_144",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "48%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_145: Automated Unit Testing Verification Rule #145",
+      "tcName": "test_TC_145_automated_unit_testing_verification_rule_145",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "48%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_146: Automated Unit Testing Verification Rule #146",
+      "tcName": "test_TC_146_automated_unit_testing_verification_rule_146",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "48%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_147: Automated Unit Testing Verification Rule #147",
+      "tcName": "test_TC_147_automated_unit_testing_verification_rule_147",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "49%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_148: Automated Unit Testing Verification Rule #148",
+      "tcName": "test_TC_148_automated_unit_testing_verification_rule_148",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "49%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_149: Automated Unit Testing Verification Rule #149",
+      "tcName": "test_TC_149_automated_unit_testing_verification_rule_149",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "49%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_150: Automated Unit Testing Verification Rule #150",
+      "tcName": "test_TC_150_automated_unit_testing_verification_rule_150",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "50%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_151: Automated Unit Testing Verification Rule #151",
+      "tcName": "test_TC_151_automated_unit_testing_verification_rule_151",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "50%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_152: Automated Unit Testing Verification Rule #152",
+      "tcName": "test_TC_152_automated_unit_testing_verification_rule_152",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "50%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_153: Automated Unit Testing Verification Rule #153",
+      "tcName": "test_TC_153_automated_unit_testing_verification_rule_153",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "51%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_154: Automated Unit Testing Verification Rule #154",
+      "tcName": "test_TC_154_automated_unit_testing_verification_rule_154",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "51%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_155: Automated Unit Testing Verification Rule #155",
+      "tcName": "test_TC_155_automated_unit_testing_verification_rule_155",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "51%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_156: Automated Unit Testing Verification Rule #156",
+      "tcName": "test_TC_156_automated_unit_testing_verification_rule_156",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "52%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_157: Automated Unit Testing Verification Rule #157",
+      "tcName": "test_TC_157_automated_unit_testing_verification_rule_157",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "52%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_158: Automated Unit Testing Verification Rule #158",
+      "tcName": "test_TC_158_automated_unit_testing_verification_rule_158",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "52%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_159: Automated Unit Testing Verification Rule #159",
+      "tcName": "test_TC_159_automated_unit_testing_verification_rule_159",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "53%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_160: Automated Unit Testing Verification Rule #160",
+      "tcName": "test_TC_160_automated_unit_testing_verification_rule_160",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "53%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_161: Automated Unit Testing Verification Rule #161",
+      "tcName": "test_TC_161_automated_unit_testing_verification_rule_161",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "53%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_162: Automated Unit Testing Verification Rule #162",
+      "tcName": "test_TC_162_automated_unit_testing_verification_rule_162",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "54%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_163: Automated Unit Testing Verification Rule #163",
+      "tcName": "test_TC_163_automated_unit_testing_verification_rule_163",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "54%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_164: Automated Unit Testing Verification Rule #164",
+      "tcName": "test_TC_164_automated_unit_testing_verification_rule_164",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "54%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_165: Automated Unit Testing Verification Rule #165",
+      "tcName": "test_TC_165_automated_unit_testing_verification_rule_165",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "55%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_166: Automated Unit Testing Verification Rule #166",
+      "tcName": "test_TC_166_automated_unit_testing_verification_rule_166",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "55%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_167: Automated Unit Testing Verification Rule #167",
+      "tcName": "test_TC_167_automated_unit_testing_verification_rule_167",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "55%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_168: Automated Unit Testing Verification Rule #168",
+      "tcName": "test_TC_168_automated_unit_testing_verification_rule_168",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "56%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_169: Automated Unit Testing Verification Rule #169",
+      "tcName": "test_TC_169_automated_unit_testing_verification_rule_169",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "56%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_170: Automated Unit Testing Verification Rule #170",
+      "tcName": "test_TC_170_automated_unit_testing_verification_rule_170",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "56%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_171: Automated Unit Testing Verification Rule #171",
+      "tcName": "test_TC_171_automated_unit_testing_verification_rule_171",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "56%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_172: Automated Unit Testing Verification Rule #172",
+      "tcName": "test_TC_172_automated_unit_testing_verification_rule_172",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "57%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_173: Automated Unit Testing Verification Rule #173",
+      "tcName": "test_TC_173_automated_unit_testing_verification_rule_173",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "57%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_174: Automated Unit Testing Verification Rule #174",
+      "tcName": "test_TC_174_automated_unit_testing_verification_rule_174",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "57%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_175: Automated Unit Testing Verification Rule #175",
+      "tcName": "test_TC_175_automated_unit_testing_verification_rule_175",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "58%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_176: Automated Unit Testing Verification Rule #176",
+      "tcName": "test_TC_176_automated_unit_testing_verification_rule_176",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "58%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_177: Automated Unit Testing Verification Rule #177",
+      "tcName": "test_TC_177_automated_unit_testing_verification_rule_177",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "59%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_178: Automated Unit Testing Verification Rule #178",
+      "tcName": "test_TC_178_automated_unit_testing_verification_rule_178",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "59%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_179: Automated Unit Testing Verification Rule #179",
+      "tcName": "test_TC_179_automated_unit_testing_verification_rule_179",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "59%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_180: Automated Unit Testing Verification Rule #180",
+      "tcName": "test_TC_180_automated_unit_testing_verification_rule_180",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "60%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_181: Automated Unit Testing Verification Rule #181",
+      "tcName": "test_TC_181_automated_unit_testing_verification_rule_181",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "60%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_182: Automated Unit Testing Verification Rule #182",
+      "tcName": "test_TC_182_automated_unit_testing_verification_rule_182",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "60%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_183: Automated Unit Testing Verification Rule #183",
+      "tcName": "test_TC_183_automated_unit_testing_verification_rule_183",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "61%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_184: Automated Unit Testing Verification Rule #184",
+      "tcName": "test_TC_184_automated_unit_testing_verification_rule_184",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "61%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_185: Automated Unit Testing Verification Rule #185",
+      "tcName": "test_TC_185_automated_unit_testing_verification_rule_185",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "61%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_186: Automated Unit Testing Verification Rule #186",
+      "tcName": "test_TC_186_automated_unit_testing_verification_rule_186",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "62%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_187: Automated Unit Testing Verification Rule #187",
+      "tcName": "test_TC_187_automated_unit_testing_verification_rule_187",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "62%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_188: Automated Unit Testing Verification Rule #188",
+      "tcName": "test_TC_188_automated_unit_testing_verification_rule_188",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "62%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_189: Automated Unit Testing Verification Rule #189",
+      "tcName": "test_TC_189_automated_unit_testing_verification_rule_189",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "63%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_190: Automated Unit Testing Verification Rule #190",
+      "tcName": "test_TC_190_automated_unit_testing_verification_rule_190",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "63%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_191: Automated Unit Testing Verification Rule #191",
+      "tcName": "test_TC_191_automated_unit_testing_verification_rule_191",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "63%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_192: Automated Unit Testing Verification Rule #192",
+      "tcName": "test_TC_192_automated_unit_testing_verification_rule_192",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "64%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_193: Automated Unit Testing Verification Rule #193",
+      "tcName": "test_TC_193_automated_unit_testing_verification_rule_193",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "64%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_194: Automated Unit Testing Verification Rule #194",
+      "tcName": "test_TC_194_automated_unit_testing_verification_rule_194",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "64%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_195: Automated Unit Testing Verification Rule #195",
+      "tcName": "test_TC_195_automated_unit_testing_verification_rule_195",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "65%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_196: Automated Unit Testing Verification Rule #196",
+      "tcName": "test_TC_196_automated_unit_testing_verification_rule_196",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "65%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_197: Automated Unit Testing Verification Rule #197",
+      "tcName": "test_TC_197_automated_unit_testing_verification_rule_197",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "65%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_198: Automated Unit Testing Verification Rule #198",
+      "tcName": "test_TC_198_automated_unit_testing_verification_rule_198",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "66%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_199: Automated Unit Testing Verification Rule #199",
+      "tcName": "test_TC_199_automated_unit_testing_verification_rule_199",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "66%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_200: Automated Unit Testing Verification Rule #200",
+      "tcName": "test_TC_200_automated_unit_testing_verification_rule_200",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "66%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_201: Automated Unit Testing Verification Rule #201",
+      "tcName": "test_TC_201_automated_unit_testing_verification_rule_201",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "67%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_202: Automated Unit Testing Verification Rule #202",
+      "tcName": "test_TC_202_automated_unit_testing_verification_rule_202",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "67%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_203: Automated Unit Testing Verification Rule #203",
+      "tcName": "test_TC_203_automated_unit_testing_verification_rule_203",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "67%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_204: Automated Unit Testing Verification Rule #204",
+      "tcName": "test_TC_204_automated_unit_testing_verification_rule_204",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "68%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_205: Automated Unit Testing Verification Rule #205",
+      "tcName": "test_TC_205_automated_unit_testing_verification_rule_205",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "68%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_206: Automated Unit Testing Verification Rule #206",
+      "tcName": "test_TC_206_automated_unit_testing_verification_rule_206",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "68%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_207: Automated Unit Testing Verification Rule #207",
+      "tcName": "test_TC_207_automated_unit_testing_verification_rule_207",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "69%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_208: Automated Unit Testing Verification Rule #208",
+      "tcName": "test_TC_208_automated_unit_testing_verification_rule_208",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "69%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_209: Automated Unit Testing Verification Rule #209",
+      "tcName": "test_TC_209_automated_unit_testing_verification_rule_209",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "69%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_210: Automated Unit Testing Verification Rule #210",
+      "tcName": "test_TC_210_automated_unit_testing_verification_rule_210",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "70%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_211: Automated Unit Testing Verification Rule #211",
+      "tcName": "test_TC_211_automated_unit_testing_verification_rule_211",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "70%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_212: Automated Unit Testing Verification Rule #212",
+      "tcName": "test_TC_212_automated_unit_testing_verification_rule_212",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "70%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_213: Automated Unit Testing Verification Rule #213",
+      "tcName": "test_TC_213_automated_unit_testing_verification_rule_213",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "71%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_214: Automated Unit Testing Verification Rule #214",
+      "tcName": "test_TC_214_automated_unit_testing_verification_rule_214",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "71%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_215: Automated Unit Testing Verification Rule #215",
+      "tcName": "test_TC_215_automated_unit_testing_verification_rule_215",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "71%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_216: Automated Unit Testing Verification Rule #216",
+      "tcName": "test_TC_216_automated_unit_testing_verification_rule_216",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "72%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_217: Automated Unit Testing Verification Rule #217",
+      "tcName": "test_TC_217_automated_unit_testing_verification_rule_217",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "72%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_218: Automated Unit Testing Verification Rule #218",
+      "tcName": "test_TC_218_automated_unit_testing_verification_rule_218",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "72%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_219: Automated Unit Testing Verification Rule #219",
+      "tcName": "test_TC_219_automated_unit_testing_verification_rule_219",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "73%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_220: Automated Unit Testing Verification Rule #220",
+      "tcName": "test_TC_220_automated_unit_testing_verification_rule_220",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "73%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_221: Automated Unit Testing Verification Rule #221",
+      "tcName": "test_TC_221_automated_unit_testing_verification_rule_221",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "73%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_222: Automated Unit Testing Verification Rule #222",
+      "tcName": "test_TC_222_automated_unit_testing_verification_rule_222",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "74%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_223: Automated Unit Testing Verification Rule #223",
+      "tcName": "test_TC_223_automated_unit_testing_verification_rule_223",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "74%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_224: Automated Unit Testing Verification Rule #224",
+      "tcName": "test_TC_224_automated_unit_testing_verification_rule_224",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "74%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_225: Automated Unit Testing Verification Rule #225",
+      "tcName": "test_TC_225_automated_unit_testing_verification_rule_225",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "75%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_226: Automated Unit Testing Verification Rule #226",
+      "tcName": "test_TC_226_automated_unit_testing_verification_rule_226",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "75%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_227: Automated Unit Testing Verification Rule #227",
+      "tcName": "test_TC_227_automated_unit_testing_verification_rule_227",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "75%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_228: Automated Unit Testing Verification Rule #228",
+      "tcName": "test_TC_228_automated_unit_testing_verification_rule_228",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "76%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_229: Automated Unit Testing Verification Rule #229",
+      "tcName": "test_TC_229_automated_unit_testing_verification_rule_229",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "76%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_230: Automated Unit Testing Verification Rule #230",
+      "tcName": "test_TC_230_automated_unit_testing_verification_rule_230",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "76%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_231: Automated Unit Testing Verification Rule #231",
+      "tcName": "test_TC_231_automated_unit_testing_verification_rule_231",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "77%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_232: Automated Unit Testing Verification Rule #232",
+      "tcName": "test_TC_232_automated_unit_testing_verification_rule_232",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "77%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_233: Automated Unit Testing Verification Rule #233",
+      "tcName": "test_TC_233_automated_unit_testing_verification_rule_233",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "77%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_234: Automated Unit Testing Verification Rule #234",
+      "tcName": "test_TC_234_automated_unit_testing_verification_rule_234",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "78%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_235: Automated Unit Testing Verification Rule #235",
+      "tcName": "test_TC_235_automated_unit_testing_verification_rule_235",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "78%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_236: Automated Unit Testing Verification Rule #236",
+      "tcName": "test_TC_236_automated_unit_testing_verification_rule_236",
+      "status": "PASSED",
+      "duration": 1,
+      "percent": "78%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_237: Automated Unit Testing Verification Rule #237",
+      "tcName": "test_TC_237_automated_unit_testing_verification_rule_237",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "79%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_238: Automated Unit Testing Verification Rule #238",
+      "tcName": "test_TC_238_automated_unit_testing_verification_rule_238",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "79%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_239: Automated Unit Testing Verification Rule #239",
+      "tcName": "test_TC_239_automated_unit_testing_verification_rule_239",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "79%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_240: Automated Unit Testing Verification Rule #240",
+      "tcName": "test_TC_240_automated_unit_testing_verification_rule_240",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "80%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_241: Automated Unit Testing Verification Rule #241",
+      "tcName": "test_TC_241_automated_unit_testing_verification_rule_241",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "80%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_242: Automated Unit Testing Verification Rule #242",
+      "tcName": "test_TC_242_automated_unit_testing_verification_rule_242",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "80%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_243: Automated Unit Testing Verification Rule #243",
+      "tcName": "test_TC_243_automated_unit_testing_verification_rule_243",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "81%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_244: Automated Unit Testing Verification Rule #244",
+      "tcName": "test_TC_244_automated_unit_testing_verification_rule_244",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "81%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_245: Automated Unit Testing Verification Rule #245",
+      "tcName": "test_TC_245_automated_unit_testing_verification_rule_245",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "81%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_246: Automated Unit Testing Verification Rule #246",
+      "tcName": "test_TC_246_automated_unit_testing_verification_rule_246",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "82%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_247: Automated Unit Testing Verification Rule #247",
+      "tcName": "test_TC_247_automated_unit_testing_verification_rule_247",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "82%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_248: Automated Unit Testing Verification Rule #248",
+      "tcName": "test_TC_248_automated_unit_testing_verification_rule_248",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "82%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_249: Automated Unit Testing Verification Rule #249",
+      "tcName": "test_TC_249_automated_unit_testing_verification_rule_249",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "83%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_250: Automated Unit Testing Verification Rule #250",
+      "tcName": "test_TC_250_automated_unit_testing_verification_rule_250",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "83%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_251: Automated Unit Testing Verification Rule #251",
+      "tcName": "test_TC_251_automated_unit_testing_verification_rule_251",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "83%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_252: Automated Unit Testing Verification Rule #252",
+      "tcName": "test_TC_252_automated_unit_testing_verification_rule_252",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "84%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_253: Automated Unit Testing Verification Rule #253",
+      "tcName": "test_TC_253_automated_unit_testing_verification_rule_253",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "84%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_254: Automated Unit Testing Verification Rule #254",
+      "tcName": "test_TC_254_automated_unit_testing_verification_rule_254",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "84%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_255: Automated Unit Testing Verification Rule #255",
+      "tcName": "test_TC_255_automated_unit_testing_verification_rule_255",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "85%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_256: Automated Unit Testing Verification Rule #256",
+      "tcName": "test_TC_256_automated_unit_testing_verification_rule_256",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "85%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_257: Automated Unit Testing Verification Rule #257",
+      "tcName": "test_TC_257_automated_unit_testing_verification_rule_257",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "85%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_258: Automated Unit Testing Verification Rule #258",
+      "tcName": "test_TC_258_automated_unit_testing_verification_rule_258",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "86%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_259: Automated Unit Testing Verification Rule #259",
+      "tcName": "test_TC_259_automated_unit_testing_verification_rule_259",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "86%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_260: Automated Unit Testing Verification Rule #260",
+      "tcName": "test_TC_260_automated_unit_testing_verification_rule_260",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "86%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_261: Automated Unit Testing Verification Rule #261",
+      "tcName": "test_TC_261_automated_unit_testing_verification_rule_261",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "87%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_262: Automated Unit Testing Verification Rule #262",
+      "tcName": "test_TC_262_automated_unit_testing_verification_rule_262",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "87%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_263: Automated Unit Testing Verification Rule #263",
+      "tcName": "test_TC_263_automated_unit_testing_verification_rule_263",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "87%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_264: Automated Unit Testing Verification Rule #264",
+      "tcName": "test_TC_264_automated_unit_testing_verification_rule_264",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "88%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_265: Automated Unit Testing Verification Rule #265",
+      "tcName": "test_TC_265_automated_unit_testing_verification_rule_265",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "88%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_266: Automated Unit Testing Verification Rule #266",
+      "tcName": "test_TC_266_automated_unit_testing_verification_rule_266",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "88%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_267: Automated Unit Testing Verification Rule #267",
+      "tcName": "test_TC_267_automated_unit_testing_verification_rule_267",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "89%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_268: Automated Unit Testing Verification Rule #268",
+      "tcName": "test_TC_268_automated_unit_testing_verification_rule_268",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "89%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_269: Automated Unit Testing Verification Rule #269",
+      "tcName": "test_TC_269_automated_unit_testing_verification_rule_269",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "89%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_270: Automated Unit Testing Verification Rule #270",
+      "tcName": "test_TC_270_automated_unit_testing_verification_rule_270",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "90%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_271: Automated Unit Testing Verification Rule #271",
+      "tcName": "test_TC_271_automated_unit_testing_verification_rule_271",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "90%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_272: Automated Unit Testing Verification Rule #272",
+      "tcName": "test_TC_272_automated_unit_testing_verification_rule_272",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "90%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_273: Automated Unit Testing Verification Rule #273",
+      "tcName": "test_TC_273_automated_unit_testing_verification_rule_273",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "91%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_274: Automated Unit Testing Verification Rule #274",
+      "tcName": "test_TC_274_automated_unit_testing_verification_rule_274",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "91%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_275: Automated Unit Testing Verification Rule #275",
+      "tcName": "test_TC_275_automated_unit_testing_verification_rule_275",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "91%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_276: Automated Unit Testing Verification Rule #276",
+      "tcName": "test_TC_276_automated_unit_testing_verification_rule_276",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "92%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_277: Automated Unit Testing Verification Rule #277",
+      "tcName": "test_TC_277_automated_unit_testing_verification_rule_277",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "92%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_278: Automated Unit Testing Verification Rule #278",
+      "tcName": "test_TC_278_automated_unit_testing_verification_rule_278",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "92%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_279: Automated Unit Testing Verification Rule #279",
+      "tcName": "test_TC_279_automated_unit_testing_verification_rule_279",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "93%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_280: Automated Unit Testing Verification Rule #280",
+      "tcName": "test_TC_280_automated_unit_testing_verification_rule_280",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "93%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_281: Automated Unit Testing Verification Rule #281",
+      "tcName": "test_TC_281_automated_unit_testing_verification_rule_281",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "93%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_282: Automated Unit Testing Verification Rule #282",
+      "tcName": "test_TC_282_automated_unit_testing_verification_rule_282",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "94%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_283: Automated Unit Testing Verification Rule #283",
+      "tcName": "test_TC_283_automated_unit_testing_verification_rule_283",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "94%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_284: Automated Unit Testing Verification Rule #284",
+      "tcName": "test_TC_284_automated_unit_testing_verification_rule_284",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "94%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_285: Automated Unit Testing Verification Rule #285",
+      "tcName": "test_TC_285_automated_unit_testing_verification_rule_285",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "95%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_286: Automated Unit Testing Verification Rule #286",
+      "tcName": "test_TC_286_automated_unit_testing_verification_rule_286",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "95%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_287: Automated Unit Testing Verification Rule #287",
+      "tcName": "test_TC_287_automated_unit_testing_verification_rule_287",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "95%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_288: Automated Unit Testing Verification Rule #288",
+      "tcName": "test_TC_288_automated_unit_testing_verification_rule_288",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "96%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_289: Automated Unit Testing Verification Rule #289",
+      "tcName": "test_TC_289_automated_unit_testing_verification_rule_289",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "96%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_290: Automated Unit Testing Verification Rule #290",
+      "tcName": "test_TC_290_automated_unit_testing_verification_rule_290",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "96%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_291: Automated Unit Testing Verification Rule #291",
+      "tcName": "test_TC_291_automated_unit_testing_verification_rule_291",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "97%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_292: Automated Unit Testing Verification Rule #292",
+      "tcName": "test_TC_292_automated_unit_testing_verification_rule_292",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "97%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_293: Automated Unit Testing Verification Rule #293",
+      "tcName": "test_TC_293_automated_unit_testing_verification_rule_293",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "97%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_294: Automated Unit Testing Verification Rule #294",
+      "tcName": "test_TC_294_automated_unit_testing_verification_rule_294",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "98%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_295: Automated Unit Testing Verification Rule #295",
+      "tcName": "test_TC_295_automated_unit_testing_verification_rule_295",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "98%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_296: Automated Unit Testing Verification Rule #296",
+      "tcName": "test_TC_296_automated_unit_testing_verification_rule_296",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "98%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_297: Automated Unit Testing Verification Rule #297",
+      "tcName": "test_TC_297_automated_unit_testing_verification_rule_297",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "99%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_298: Automated Unit Testing Verification Rule #298",
+      "tcName": "test_TC_298_automated_unit_testing_verification_rule_298",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "99%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_299: Automated Unit Testing Verification Rule #299",
+      "tcName": "test_TC_299_automated_unit_testing_verification_rule_299",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "99%",
+      "error": ""
+    },
+    {
+      "category": "07. Unit Testing & Helper Logic Module",
+      "title": "TC_300: Automated Unit Testing Verification Rule #300",
+      "tcName": "test_TC_300_automated_unit_testing_verification_rule_300",
+      "status": "PASSED",
+      "duration": 0,
+      "percent": "100%",
+      "error": ""
+    }
+  ]
+}
